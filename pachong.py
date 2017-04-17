@@ -6,7 +6,7 @@ import os
 
 SAVE_DIR_PATH = 'E:\\temp/'
 
-URL = 'http://tieba.baidu.com/p/5010556694?red_tag=t2147100172'
+URL = 'https://mp.weixin.qq.com/s?__biz=MzI1MDA3NDE4NA==&mid=2651069170&idx=2&sn=234aff6c2f9e443f12131d1f8425a8c9#wechat_redirect'
 
 
 #获得页面内容
